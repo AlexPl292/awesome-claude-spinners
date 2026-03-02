@@ -69,6 +69,12 @@ Or use `"mode": "append"` to add verbs to the defaults instead of replacing them
 | [Vibecoder](spinners/vibecoder.json) | Vibe coding culture | "Letting the AI cook", "Shipping on good vibes" |
 | [Vim](spinners/vim.json) | Vim editor enthusiasts | "Exiting vim (attempting)", "Yanking the line" |
 | [SF Entrepreneur](spinners/sf-entrepreneur.json) | San Francisco tech scene | "Grabbing a Blue Bottle coffee", "Cold-emailing a16z" |
+| [Michael Scott](spinners/michael-scott.json) | The Office's Michael Scott | "Declaring bankruptcy on the old code", "Somehow managing" |
+| [Walter White](spinners/walter-white.json) | Breaking Bad's Heisenberg | "Being the one who codes", "Going full Heisenberg" |
+| [The Dude](spinners/the-dude.json) | Big Lebowski's The Dude | "Abiding", "Sipping a White Russian" |
+| [Borat](spinners/borat.json) | Borat Sagdiyev | "Very nice! Great success-ing", "High five-ing the compiler" |
+| [Darth Vader](spinners/darth-vader.json) | Star Wars' Sith Lord | "Finding your lack of tests disturbing", "Force-pushing to the remote" |
+| [Yoda](spinners/yoda.json) | Star Wars' Jedi Master | "Reading the code, I am", "Trying not, doing" |
 
 ## Mix & Match
 
