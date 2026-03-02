@@ -81,4 +81,4 @@ Want to add your own spinner pack? See [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 
 ## License
 
-[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+[MIT](LICENSE)
