@@ -56,6 +56,19 @@ Or use `"mode": "append"` to add verbs to the defaults instead of replacing them
 | [Shakespeare](spinners/shakespeare.json) | Shakespearean & old English | "Prithee, a moment", "Once more unto the breach" |
 | [Chaos](spinners/chaos.json) | Absurdist & chaotic humor | "Flipping the table", "Sacrificing a semicolon" |
 | [Wholesome](spinners/wholesome.json) | Wholesome & cozy vibes | "Watering the plants", "Believing in you" |
+| [Cowboy](spinners/cowboy.json) | Wild West & frontier | "Lassoing the solution", "Riding into the sunset" |
+| [Zombie](spinners/zombie.json) | Zombie apocalypse survival | "Reanimating dead code", "Double-tapping the bug" |
+| [Therapist](spinners/therapist.json) | Therapy speak & self-care | "Holding space for the code", "Unpacking that" |
+| [Ninja](spinners/ninja.json) | Ninja & stealth | "Moving through the shadows", "Striking silently" |
+| [Ocean](spinners/ocean.json) | Ocean & underwater | "Diving into the deep end", "Surfing the data waves" |
+| [Startup](spinners/startup.json) | Startup culture | "Disrupting the industry", "Iterating on the MVP" |
+| [Time Traveler](spinners/time-traveler.json) | Time travel & paradoxes | "Firing up the flux capacitor", "Rewriting the timeline" |
+| [Superhero](spinners/superhero.json) | Superhero themed | "Suiting up", "Saving the day" |
+| [Gardening](spinners/gardening.json) | Gardening & growing | "Planting the seed", "Pulling the weeds" |
+| [90s Kid](spinners/90s-kid.json) | 90s nostalgia | "Dialing up the internet", "Blowing into the cartridge" |
+| [Vibecoder](spinners/vibecoder.json) | Vibe coding culture | "Letting the AI cook", "Shipping on good vibes" |
+| [Vim](spinners/vim.json) | Vim editor enthusiasts | "Exiting vim (attempting)", "Yanking the line" |
+| [SF Entrepreneur](spinners/sf-entrepreneur.json) | San Francisco tech scene | "Grabbing a Blue Bottle coffee", "Cold-emailing a16z" |
 
 ## Mix & Match
 
