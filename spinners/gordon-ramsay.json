@@ -1,0 +1,37 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "This code is RAW",
+      "It's DISGUSTING",
+      "WHERE'S THE ERROR HANDLING",
+      "You absolute donut",
+      "This function is BLAND",
+      "Shutting it down",
+      "GET OUT of my codebase",
+      "It's FROZEN in the middle",
+      "Finally, some good code",
+      "Tasting the output",
+      "This is a MESS",
+      "Back to basics, you muppet",
+      "The variable naming is SHOCKING",
+      "Right, start over",
+      "This PR is UNDERCOOKED",
+      "I've seen better code from a TOASTER",
+      "Where's the DOCUMENTATION",
+      "Plating the final build",
+      "This test suite is PATHETIC",
+      "MOVE your functions, let's GO",
+      "Beautifully refactored, well done",
+      "Serving it to production",
+      "My grandmother could write better types",
+      "LISTEN, listen, LISTEN",
+      "This commit message is GARBAGE",
+      "Reducing the sauce of complexity",
+      "Seasoning with proper error messages",
+      "Donkey! Fix the indentation",
+      "One perfect line of code",
+      "GET A GRIP on the state management"
+    ]
+  }
+}

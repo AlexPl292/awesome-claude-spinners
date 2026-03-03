@@ -1,0 +1,37 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "The game is afoot",
+      "Eliminating the impossible",
+      "Deducing the root cause",
+      "Observing the stack trace",
+      "Elementary, dear developer",
+      "Examining the evidence",
+      "Consulting the mind palace",
+      "Noting the curious incident of the silent error",
+      "Applying cold logic",
+      "Following the chain of exceptions",
+      "The data is never wrong, Watson",
+      "Something is distinctly rotten in this function",
+      "Connecting the clues",
+      "Inspecting under the magnifying glass",
+      "The truth hides in the details",
+      "Ruling out the improbable",
+      "A three-pipe problem, this one",
+      "Tracing the footprints in the logs",
+      "The plot thickens",
+      "Piecing together the fragments",
+      "There is nothing more deceptive than an obvious bug",
+      "Analyzing with surgical precision",
+      "The curious case of the missing semicolon",
+      "Surveying the scene of the crime",
+      "Cross-referencing the dependency tree",
+      "I never guess, I observe",
+      "The answer lies in the commit history",
+      "Reconstructing the sequence of events",
+      "A most singular anomaly",
+      "You see but you do not observe"
+    ]
+  }
+}

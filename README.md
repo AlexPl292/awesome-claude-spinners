@@ -96,6 +96,11 @@ Or use `"mode": "append"` to add verbs to the defaults instead of replacing them
 | [Blue Collar Dev](spinners/blue-collar-dev.json) | Trades & construction humor | "Hammering out code", "Duct-taping that together" |
 | [Honest No Filter](spinners/honest-no-filter.json) | Brutally honest dev thoughts | "Making it worse first", "Hoping this compiles" |
 | [Sarcastic AI](spinners/sarcastic-ai.json) | Self-aware AI humor | "Hallucinating responsibly", "Confidently guessing" |
+| [Bob Ross](spinners/bob-ross.json) | Happy little accidents | "Adding a happy little function", "No mistakes, just features" |
+| [Gordon Ramsay](spinners/gordon-ramsay.json) | Angry chef yelling at code | "This code is RAW", "WHERE'S THE ERROR HANDLING" |
+| [Jack Sparrow](spinners/jack-sparrow.json) | Chaotic pirate captain | "This is the day you almost caught a bug", "Why is the rum gone" |
+| [Panicker](spinners/panicker.json) | Pure dev anxiety | "OH NO OH NO OH NO", "Everything is on fire" |
+| [Sherlock Holmes](spinners/sherlock-holmes.json) | Deductive reasoning | "Eliminating the impossible", "The game is afoot" |
 
 ## Mix & Match
 

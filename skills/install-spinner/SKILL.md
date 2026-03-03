@@ -68,6 +68,11 @@ Parse the JSON response to get the list of `.json` files. Extract the pack names
 | wizard | Fantasy & magic themed | "Casting a spell", "Consulting the ancient scrolls" |
 | yoda | Star Wars' Jedi Master | "Reading the code, I am", "Trying not, doing" |
 | zombie | Zombie apocalypse survival | "Reanimating dead code", "Double-tapping the bug" |
+| bob-ross | Happy little accidents | "Adding a happy little function", "No mistakes, just features" |
+| gordon-ramsay | Angry chef yelling at code | "This code is RAW", "WHERE'S THE ERROR HANDLING" |
+| jack-sparrow | Chaotic pirate captain | "This is the day you almost caught a bug", "Why is the rum gone" |
+| panicker | Pure dev anxiety | "OH NO OH NO OH NO", "Everything is on fire" |
+| sherlock-holmes | Deductive reasoning | "Eliminating the impossible", "The game is afoot" |
 
 If a pack exists in the fetched list but is not in this table, still show it (with no description).
 
