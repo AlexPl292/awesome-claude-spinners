@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "organization": "alexpl292",
+  "date": "March 2026",
+  "abstract": "Install themed spinner verb packs for Claude Code. Choose from 35+ themed packs including pirate, wizard, space, corporate, and many more. Fetches packs directly from GitHub and installs them into your Claude Code settings.",
+  "references": [
+    "https://github.com/alexpl292/awesome-claude-spinners"
+  ]
+}

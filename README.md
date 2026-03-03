@@ -18,17 +18,21 @@ You can replace the default verbs with any themed set you like!
 
 ## Installation
 
-### Quick Install (Claude Code command)
+### Skill (no repo clone needed)
 
-Run this from your Claude Code session:
+```bash
+npx skills add alexpl292/awesome-claude-spinners
+```
+
+Then ask your agent to "install a spinner pack" — it will fetch the list from GitHub and let you pick.
+
+### Slash Command (requires repo clone)
+
+Copy `.claude/commands/install-spinner.md` into your own `.claude/commands/` directory, then run from your Claude Code session:
 
 ```
 /install-spinner
 ```
-
-You'll be asked to pick a spinner pack, and it will be automatically installed into your `~/.claude/settings.json`.
-
-To add this command to your Claude Code, copy the `.claude/commands/install-spinner.md` file from this repo into your own `.claude/commands/` directory.
 
 ### Manual Install
 
