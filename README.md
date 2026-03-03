@@ -75,9 +75,9 @@ Or use `"mode": "append"` to add verbs to the defaults instead of replacing them
 | [Borat](spinners/borat.json) | Borat Sagdiyev | "Very nice! Great success-ing", "High five-ing the compiler" |
 | [Darth Vader](spinners/darth-vader.json) | Star Wars' Sith Lord | "Finding your lack of tests disturbing", "Force-pushing to the remote" |
 | [Yoda](spinners/yoda.json) | Star Wars' Jedi Master | "Reading the code, I am", "Trying not, doing" |
-| [Blue Collar Dev](spinners/blue-collar-dev-spinners.json) | Trades & construction humor | "Hammering out code", "Duct-taping that together" |
-| [Honest No Filter](spinners/honest-no-filter-spinners.json) | Brutally honest dev thoughts | "Making it worse first", "Hoping this compiles" |
-| [Sarcastic AI](spinners/sarcastic-ai-spinners.json) | Self-aware AI humor | "Hallucinating responsibly", "Confidently guessing" |
+| [Blue Collar Dev](spinners/blue-collar-dev.json) | Trades & construction humor | "Hammering out code", "Duct-taping that together" |
+| [Honest No Filter](spinners/honest-no-filter.json) | Brutally honest dev thoughts | "Making it worse first", "Hoping this compiles" |
+| [Sarcastic AI](spinners/sarcastic-ai.json) | Self-aware AI humor | "Hallucinating responsibly", "Confidently guessing" |
 
 ## Mix & Match
 
