@@ -18,6 +18,20 @@ You can replace the default verbs with any themed set you like!
 
 ## Installation
 
+### Quick Install (Claude Code command)
+
+Run this from your Claude Code session:
+
+```
+/install-spinner
+```
+
+You'll be asked to pick a spinner pack, and it will be automatically installed into your `~/.claude/settings.json`.
+
+To add this command to your Claude Code, copy the `.claude/commands/install-spinner.md` file from this repo into your own `.claude/commands/` directory.
+
+### Manual Install
+
 1. Pick a spinner pack from the list below
 2. Copy the JSON contents
 3. Merge it into your `~/.claude/settings.json`:
