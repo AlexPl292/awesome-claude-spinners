@@ -24,7 +24,7 @@ You can replace the default verbs with any themed set you like!
 npx skills add alexpl292/awesome-claude-spinners
 ```
 
-Then ask your agent to "install a spinner pack" — it will fetch the list from GitHub and let you pick.
+Then ask your agent to "install a spinner pack" — it will fetch the list from GitHub and let you pick. You can also ask to "remove spinners" to revert to defaults.
 
 ### Slash Command (requires repo clone)
 
