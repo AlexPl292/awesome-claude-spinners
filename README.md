@@ -4,6 +4,8 @@
 
 Claude Code displays spinner verbs like "Thinking...", "Analyzing..." while processing your requests. You can customize these with themed verb packs to make your coding sessions more fun.
 
+⭐ **Enjoying this collection? Give it a star — it helps others find these spinners!** ⭐
+
 ## What are Spinners?
 
 When Claude Code is working on a task, it shows a spinner with rotating verb phrases:
