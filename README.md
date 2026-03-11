@@ -124,7 +124,7 @@ You can combine verbs from multiple packs! Just merge the `verbs` arrays from di
 
 ## Used By
 
-- [leapmux](https://github.com/leapmux/leapmux) — embeds these spinner packs
+- [leapmux](https://github.com/leapmux/leapmux) — AI coding agent multiplexer for running multiple Claude Code instances from a single web UI
 
 ## Contributing
 
