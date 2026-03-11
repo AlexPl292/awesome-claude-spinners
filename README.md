@@ -122,6 +122,10 @@ You can combine verbs from multiple packs! Just merge the `verbs` arrays from di
 }
 ```
 
+## Used By
+
+- [leapmux](https://github.com/leapmux/leapmux) — embeds these spinner packs
+
 ## Contributing
 
 Want to add your own spinner pack? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
