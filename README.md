@@ -122,6 +122,12 @@ You can combine verbs from multiple packs! Just merge the `verbs` arrays from di
 }
 ```
 
+## Localized collections
+
+Language-specific spinner pack collections. These live in separate repos because they follow a verbatim-quote convention (exact phrases from the source material) instead of the English gerund form used here, so the content doesn't fit this repo's schema — but Claude Code users from those language communities may want them.
+
+- [sikulovi-s-r-o/claude-code-cz-sk-spinner-verbs](https://github.com/sikulovi-s-r-o/claude-code-cz-sk-spinner-verbs) — Czech & Slovak: 11 packs, 356 verbs spanning Jára Cimrman theatre, the film *Pelíšky*, Warcraft III Czech dub (all 7 factions + heroes), and internet memes. Ships as a Claude Code plugin with `/spinery:spinner <name>` + `random` + `install-autorotate` built in.
+
 ## Used By
 
 - [leapmux](https://github.com/leapmux/leapmux) — AI coding agent multiplexer for running multiple Claude Code instances from a single web UI
