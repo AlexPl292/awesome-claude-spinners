@@ -74,6 +74,7 @@ Parse the JSON response to get the list of `.json` files. Extract the pack names
 | panicker | Pure dev anxiety | "OH NO OH NO OH NO", "Everything is on fire" |
 | sherlock-holmes | Deductive reasoning | "Eliminating the impossible", "The game is afoot" |
 | spanish-incantations | Programmer spells & dev humor (ES) | "Invocando daemons", "Culpando a git" |
+| colombian-spanish | Colombian Spanish slang & regions | "Tomando tinto", "Joropeando" |
 
 If a pack exists in the fetched list but is not in this table, still show it (with no description).
 
