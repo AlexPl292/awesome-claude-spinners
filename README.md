@@ -103,6 +103,7 @@ Or use `"mode": "append"` to add verbs to the defaults instead of replacing them
 | [Jack Sparrow](spinners/jack-sparrow.json) | Chaotic pirate captain | "This is the day you almost caught a bug", "Why is the rum gone" |
 | [Panicker](spinners/panicker.json) | Pure dev anxiety | "OH NO OH NO OH NO", "Everything is on fire" |
 | [Sherlock Holmes](spinners/sherlock-holmes.json) | Deductive reasoning | "Eliminating the impossible", "The game is afoot" |
+| [Spanish Incantations](spinners/spanish-incantations.json) | Programmer spells & dev humor (ES) | "Invocando daemons", "Culpando a git" |
 
 ## Mix & Match
 
