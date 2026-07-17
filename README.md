@@ -105,6 +105,7 @@ Or use `"mode": "append"` to add verbs to the defaults instead of replacing them
 | [Sherlock Holmes](spinners/sherlock-holmes.json) | Deductive reasoning | "Eliminating the impossible", "The game is afoot" |
 | [Spanish Incantations](spinners/spanish-incantations.json) | Programmer spells & dev humor (ES) | "Invocando daemons", "Culpando a git" |
 | [Colombian Spanish](spinners/colombian-spanish.json) | Colombian Spanish slang & regions | "Tomando tinto", "Joropeando" |
+| [Rubber Duck](spinners/rubber-duck.json) | Rubber-duck debugging | "Explaining it to the duck", "Waiting for the duck's verdict" |
 
 ## Mix & Match
 

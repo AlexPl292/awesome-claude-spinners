@@ -75,6 +75,7 @@ Parse the JSON response to get the list of `.json` files. Extract the pack names
 | sherlock-holmes | Deductive reasoning | "Eliminating the impossible", "The game is afoot" |
 | spanish-incantations | Programmer spells & dev humor (ES) | "Invocando daemons", "Culpando a git" |
 | colombian-spanish | Colombian Spanish slang & regions | "Tomando tinto", "Joropeando" |
+| rubber-duck | Rubber-duck debugging | "Explaining it to the duck", "Waiting for the duck's verdict" |
 
 If a pack exists in the fetched list but is not in this table, still show it (with no description).
 

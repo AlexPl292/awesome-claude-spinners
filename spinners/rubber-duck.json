@@ -1,0 +1,31 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Explaining it to the duck",
+      "Waiting for the duck's verdict",
+      "Rephrasing the problem for the duck",
+      "Consulting the rubber duck",
+      "Talking it through, line by line",
+      "Realizing the bug mid-sentence",
+      "Placing the duck on the monitor",
+      "Walking the duck through the stack trace",
+      "Debugging out loud",
+      "Squeaking the duck for luck",
+      "Pausing for the duck's wisdom",
+      "Narrating the control flow",
+      "Confessing the hack to the duck",
+      "Rethinking it out loud",
+      "Explaining why this can't possibly fail",
+      "Catching the typo while talking",
+      "Thanking the duck",
+      "Restating the assumptions",
+      "Reading the code aloud",
+      "Asking the duck a rhetorical question",
+      "Second-guessing myself to the duck",
+      "Facing the duck in silence",
+      "Nodding at the duck",
+      "Describing the expected behavior"
+    ]
+  }
+}
