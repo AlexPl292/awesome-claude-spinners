@@ -106,6 +106,8 @@ Or use `"mode": "append"` to add verbs to the defaults instead of replacing them
 | [Spanish Incantations](spinners/spanish-incantations.json) | Programmer spells & dev humor (ES) | "Invocando daemons", "Culpando a git" |
 | [Colombian Spanish](spinners/colombian-spanish.json) | Colombian Spanish slang & regions | "Tomando tinto", "Joropeando" |
 | [Rubber Duck](spinners/rubber-duck.json) | Rubber-duck debugging | "Explaining it to the duck", "Waiting for the duck's verdict" |
+| [Rock'n'Roll Anthems](spinners/rock-and-roll-anthems.json) | Classic song titles. Earworms guaranteed. | "Living' on a Prayer", "Dancing in the Dark" |
+
 
 ## Mix & Match
 
